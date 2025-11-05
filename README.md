@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arulll</h1>
-<h3 align="center">A passionate informatics student.</h3>
+<h3 align="center">An informatics student.</h3>
 
-Beginner who is still learning and exploring my passions. Enthusiastic about games and networking. ✨
+Beginner who is still learning and exploring my passions. ✨
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
